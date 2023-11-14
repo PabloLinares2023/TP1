@@ -1,0 +1,61 @@
+body {
+    background-color: #4333d6f2; 
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contador-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .contador {
+    background-color: #FFFFFF; /* Blanco */
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  h3 {
+    margin: 0;
+  }
+  
+  button {
+    background-color: #87CEEB; /* Celeste claro */
+    color: #FFFFFF; /* Blanco */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #6495ED; /* Celeste más oscuro al pasar el ratón */
+  }
+  
+  .contador {
+    background-color: #FFFFFF; /* Blanco */
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .candidato-box {
+ 
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .Titulo{
+
+     color: #FFFFFF;
+     font-size: 40px;
+  }
